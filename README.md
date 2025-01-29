@@ -1,2 +1,2 @@
 # sequence-calculator
-Calculates potential characters in a sequence
+Simple python program that calculates potential characters in a sequence
